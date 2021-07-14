@@ -1,0 +1,30 @@
+{
+  "name": "daintree",
+  "version": "1.0.0",
+  "description": "project",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rishabh28920/daintree.git"
+  },
+  "author": "Rishabh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rishabh28920/daintree/issues"
+  },
+  "homepage": "https://github.com/rishabh28920/daintree#readme",
+  "devDependencies": {
+    "lite": "^4.0.5",
+    "lite-server": "^2.6.1",
+    "server": "^1.0.33"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.1",
+    "popper.js": "^1.16.1"
+  }
+}
